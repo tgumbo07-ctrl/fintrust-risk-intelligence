@@ -1,0 +1,46 @@
+feature,coefficient
+remainder__Is_International,0.9416021011729142
+remainder__Is_Overnight,0.830493380230071
+cat__Transaction_Type_Transfer,0.6721596748551157
+cat__Transaction_Type_Cash Withdrawal,0.5963644745743651
+cat__Amount_Band_Q5,0.4065716278051355
+cat__Device_Type_nan,-0.40028469129665645
+cat__Transaction_Type_Bill Payment,-0.2873278548268795
+cat__Transaction_Type_Card Purchase,-0.28592656464540445
+cat__Account_Status_Restricted,0.2301923970677947
+cat__Device_Type_iOS,-0.20772447409683903
+cat__Channel_POS,-0.19743013508749901
+cat__Tenure_Band_61-96m,-0.1935090321500894
+cat__Location_Benin City,0.18679213478425008
+cat__Engagement_Band_Medium,-0.17619418127341074
+cat__Device_Type_POS Terminal,-0.17366350047976722
+cat__Channel_Mobile App,-0.16518357466931177
+cat__Engagement_Band_Low,-0.16432973005737855
+cat__Location_Enugu,0.15018107044148557
+cat__Account_Type_Premium,0.1453921781406391
+cat__Location_Ibadan,0.13272207830677696
+cat__Account_Type_Savings,0.12943174184895703
+cat__Transaction_Type_Deposit,-0.1251372081072595
+cat__Channel_USSD,-0.12282149211843695
+cat__Location_nan,-0.11419434915713243
+cat__Device_Type_Android,-0.10495908483201402
+cat__Tenure_Band_13-36m,-0.0750984842406527
+cat__Location_Kaduna,0.07315374828474226
+cat__Location_Port Harcourt,0.0697121827686522
+cat__Location_Lagos,0.06318079221132898
+cat__Channel_Web,-0.06311080492858019
+cat__Amount_Band_Q3,-0.06166984903252921
+cat__Device_Type_Web Browser,-0.061060906854211956
+cat__Amount_Band_Q2,-0.0590384211884714
+cat__Location_Kano,0.044261275805227686
+num__Digital_Engagement_Score,-0.04022832820751346
+cat__Account_Status_Dormant,0.03901320785915615
+num__Tenure_Months,0.031543589903715655
+cat__Amount_Band_Q4,0.03005719193269058
+num__Transaction_Hour,0.029264988137740724
+cat__Preferred_Channel_Web,-0.026960800117109614
+cat__Preferred_Channel_USSD,-0.026944572931586162
+cat__Customer_Segment_Student,-0.019400555822050223
+cat__Customer_Segment_Premium,0.011763267584707335
+cat__Customer_Segment_SME,0.002504125230960216
+cat__Tenure_Band_37-60m,-0.0007295292886283578

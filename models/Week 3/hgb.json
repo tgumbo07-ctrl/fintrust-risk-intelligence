@@ -1,0 +1,17 @@
+{
+  "model": "HistGradientBoosting",
+  "cv_auc_mean": 0.6582385905576649,
+  "best_params": {
+    "model__min_samples_leaf": 20,
+    "model__max_leaf_nodes": 15,
+    "model__max_iter": 150,
+    "model__learning_rate": 0.02,
+    "model__l2_regularization": 1.0
+  },
+  "val_auc": 0.6665968885480413,
+  "val_pr_auc": 0.30854723712630117,
+  "accuracy": 0.8051082731815657,
+  "precision": 0.6666666666666666,
+  "recall": 0.0113314447592068,
+  "f1": 0.022284122562674095
+}

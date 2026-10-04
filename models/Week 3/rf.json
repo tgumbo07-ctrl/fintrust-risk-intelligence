@@ -1,0 +1,16 @@
+{
+  "model": "Tuned Random Forest",
+  "cv_auc_mean": 0.6619549051121882,
+  "best_params": {
+    "model__n_estimators": 300,
+    "model__min_samples_leaf": 20,
+    "model__max_features": "sqrt",
+    "model__max_depth": 12
+  },
+  "val_auc": 0.667553566118354,
+  "val_pr_auc": 0.31434793535703287,
+  "accuracy": 0.6363131593559134,
+  "precision": 0.28611898016997167,
+  "recall": 0.5722379603399433,
+  "f1": 0.3814919735599622
+}
